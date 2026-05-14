@@ -43,7 +43,7 @@ require("lazy").setup({
 
   ui = {
     border = "rounded",
-    title  = "  BigBoiVim — Plugin Manager",
+    title  = "  BigBoiVim: Plugin Manager",
     icons  = {
       cmd        = " ",
       config     = "",

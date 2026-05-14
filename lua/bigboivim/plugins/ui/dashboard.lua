@@ -160,7 +160,7 @@ return {
                 .. "    " .. stats.loaded .. "/" .. stats.count .. " plugins"
                 .. "    " .. ms .. "ms",
               "",
-              "  BigBoiVim — if in doubt, ship it.",
+              "  BigBoiVim if in doubt, ship it.",
             }
           end,
         },
